@@ -1,0 +1,6 @@
+Flask==1.0.2
+pdfkit==0.6.1
+pipenv==2018.7.1
+prompt-toolkit==2.0.7
+tqdm==4.28.1
+xlrd==1.1.0
